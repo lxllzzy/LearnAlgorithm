@@ -1,0 +1,22 @@
+{
+  "[cpp]": {
+    "editor.quickSuggestions": { "other": false, "comments": false, "strings": false },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.parameterHints.enabled": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.acceptSuggestionOnEnter": "off"
+  },
+  "[c]": {
+    "editor.quickSuggestions": { "other": false, "comments": false, "strings": false },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.parameterHints.enabled": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.acceptSuggestionOnEnter": "off"
+  },
+
+  "C_Cpp.autocompleteAddParentheses": false,
+  "C_Cpp.intelliSenseEngine": "Tag Parser",  // 想更安静就改成 "disabled"
+  // "C_Cpp.errorSquiggles": "Disabled"      // 如果也不想要红波浪线，再放开这一行
+}
